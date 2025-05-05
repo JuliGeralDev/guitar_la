@@ -6,7 +6,7 @@
 
 ## 🔗 Live Preview
 
-*Coming soon...* 
+[👉 View the Demo on Netlify ](https://guitarla-juligeraldev.netlify.app/)
 
 ## ✨ Features
 
